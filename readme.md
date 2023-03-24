@@ -1,1 +1,1 @@
-### EclipseからGithubにプッシュしたディレクトリです。
+### EclipseのMavenプロジェクト（Springフレームワーク）からGithubにプッシュしたディレクトリです。
